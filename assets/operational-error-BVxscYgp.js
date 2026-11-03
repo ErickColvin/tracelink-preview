@@ -1,0 +1,1 @@
+import{u as e}from"./application-services-B6v_4GXR.js";function t(t,n){return t instanceof e?{message:t.message,...t.requestId===void 0?{}:{requestId:t.requestId}}:{message:t instanceof Error?t.message:n}}export{t};

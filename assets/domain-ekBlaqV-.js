@@ -1,0 +1,1 @@
+var e=[`EXPECTED`,`RECEIVED`,`STORED`,`READY_FOR_PICKUP`,`PICKED_UP`,`RETURNED`,`LOST`,`INCIDENT`],t=[`Blue Express`,`Chilexpress`,`Starken`,`CH Market`];export{e as n,t};
